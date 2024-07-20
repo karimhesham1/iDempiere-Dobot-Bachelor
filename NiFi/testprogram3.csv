@@ -1,0 +1,10 @@
+moveToPosition,200,0,150,0
+moveToPosition,190,170,150,0
+moveToPosition,153,130,7,50
+closeGripper,,,,
+moveToPosition,153,123,70,50
+moveToPosition,80,230,50,50
+releaseGripper,,,,
+moveToPosition,190,170,150,0
+moveToPosition,200,0,150,0
+turnOffSuctionCup,,,,

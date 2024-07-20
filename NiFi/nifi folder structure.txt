@@ -1,0 +1,6 @@
+csv file to be placed in:
+./nifi-1.26.0/data-in/programs
+
+loginbody.json to be placed in:
+./nifi-1.26.0/data-in/login
+

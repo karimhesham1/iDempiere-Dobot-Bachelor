@@ -1,0 +1,9 @@
+moveToPosition,200,0,150,0
+moveToPosition,200,-7,3,0
+closeGripper,,,,
+moveToPosition,190,50,150,0
+moveToPosition,190,170,150,0
+moveToPosition,80,230,50,0
+releaseGripper,,,,
+moveToPosition,190,170,150,0
+moveToPosition,200,0,150,0

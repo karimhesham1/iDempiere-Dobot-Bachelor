@@ -1,0 +1,11 @@
+{
+    "userName": "GardenAdmin",
+    "password": "GardenAdmin",
+    "parameters": {
+        "clientId": 11,
+        "roleId": 102,
+        "organizationId": 11,
+        "warehouseId": 103,
+        "language": "en_US"
+    }
+}
