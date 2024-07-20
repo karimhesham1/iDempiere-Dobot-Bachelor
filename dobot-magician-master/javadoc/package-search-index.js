@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.adoxx.dobot_magician"},{"l":"org.adoxx.dobot_magician.service"},{"l":"org.adoxx.dobot_magician.service.response"},{"l":"org.adoxx.dobot.dll"}]
